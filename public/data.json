@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/wyVb4vN/service5.jpg",
+      "title": "Joint Replacement",
+      "description": "Our joint replacement physicians are leaders in the field for surgery. New minimally invasive surgeries for hip and knee replacement. We strategically managing pain after joint replacement",
+      "price": 30,
+      "rating": 4.3,
+      "name": "Dr. Nasir Hossain",
+      "review": 100
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/6nfGV6q/service7.jpg",
+      "title": "Broken Repair",
+      "description": "Our Broken Repair service is an high ranking service. We do it carefully and our doctors are expart. We always provide our service with experienced doctors.",
+      "price": 30,
+      "rating": 4.3,
+      "name": "Dr. Jamlu",
+      "review": 100
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/tMvsRhy/service6.jpg",
+      "title": "Broken Bone Repair",
+      "description": "Broken Bone is a very painful that's why it's need to be repair. We have digital machine to check out all of problem and repair. Our doctors always take response of patient",
+      "price": 30,
+      "rating": 4.7,
+      "name": "Dr. Abdur Rahim",
+      "review": 100
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/tzNz1vr/service4.jpg",
+      "title": "Angioplasty and Atherectomy",
+      "description": "Angioplasty — A balloon is inflated to open the vessel. Angioplasty and stent placement — After the balloon is used, a mesh frame called a stent will be placed in the vessel to support the walls.",
+      "price": 30,
+      "rating": 5,
+      "name": "Dr. Ruhum Meya",
+      "review": 100
+    },
+    {
+        
+      "id": 5,
+      "img": "https://i.ibb.co/VSvS8JN/service10.jpg",
+      "title": "Stent Procedure",
+      "description": "Angioplasty is often combined with the placement of a small wire mesh tube called a stent. The stent helps prop the artery open, decreasing its chance of narrowing again..",
+      "price": 30,
+      "rating": 4.8,
+      "name": "Dr. Sanjida Akhtar",
+      "review": 100
+    },
+    {
+        
+      "id": 6,
+      "img": "https://i.ibb.co/F049ZcL/service9.jpg",
+      "title": "X-Ray",
+      "description": "X-rays can be used to examine most areas of the body. They're mainly used to look at the bones and joints, although they're sometimes used to detect problems.",
+      "price": 30,
+      "rating": 5,
+      "name": "Maisha Islam",
+      "review": 100
+    },
+    {
+        
+      "id": 7,
+      "img": "https://i.ibb.co/FYp2v1Z/service1.jpg",
+      "title": "Heart Problem",
+      "description": "Listen to pronunciation. (hart dih-ZEEZ) A type of disease that affects the heart or blood vessels. The risk of certain heart diseases may be increased by smoking, high blood pressure and obesity.",
+      "price": 30,
+      "rating": 4.3,
+      "name": "Pabel Khan",
+      "review": 100
+    },
+    {
+        
+      "id": 8,
+      "img": "https://i.ibb.co/BNStyf7/service3.jpg",
+      "title": "Pregnancy",
+      "description": "The pregnancy category of a medication is an assessment of the risk of fetal injury due to the pharmaceutical, if it is used as directed by the mother during pregnancy.",
+      "price": 30,
+      "rating": 4.9,
+      "name": "Mahmuda Akhtar",
+      "review": 100
+    }
+
+]
